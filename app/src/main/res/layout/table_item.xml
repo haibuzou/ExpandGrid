@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.haibuzou.expandgrid.GridItemView
+    android:layout_width="match_parent"
+    android:paddingTop="14dp"
+    android:paddingBottom="14dp"
+    android:paddingLeft="14dp"
+    android:textSize="16sp"
+    android:layout_height="50dp"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+
